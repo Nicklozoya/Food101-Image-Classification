@@ -39,4 +39,3 @@ This project implements a deep learning model to classify images from the [Food1
 
 - [TensorFlow Datasets](https://www.tensorflow.org/datasets)
 - [EfficientNet](https://arxiv.org/abs/1905.11946)
-- [Daniel Bourke](https://github.com/mrdbourke/tensorflow-deep-learning)
